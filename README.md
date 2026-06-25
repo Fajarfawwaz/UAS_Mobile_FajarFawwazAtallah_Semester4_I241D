@@ -30,10 +30,9 @@
 
 ### 3. Communication: Menggunakan Retrofit 2 dengan arsitektur REST API untuk pertukaran data format JSON.
 
-# DI Bawah Ini adalah UI login dan  HALAMAN MAHASISWA : 
+# DI Bawah Ini adalah UI DARI SELURUH APLIKASI SAYA : 
 
-<img width="1018" height="788" alt="Screenshot 2026-04-30 132424" src="https://github.com/user-attachments/assets/13724084-bac6-4cdf-882d-f33f4a3e873a" />
-
+<img width="422" height="406" alt="image" src="https://github.com/user-attachments/assets/fd366a04-d773-47f2-8d60-657858f0b77c" />
 
 # 📱 Penjelasan Detail Halaman (Page-by-Page Explanation)
 
